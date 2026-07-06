@@ -41,7 +41,7 @@ function generateBinPath() {
 
   let binPath
   try {
-    binPath = require.resolve(`${pkg}/${subpath}`)
+    binPath = require.resolve(`phrase-cli-pro/npm/${pkg}/${subpath}`)
   } catch (e) {
     throw e
   }
