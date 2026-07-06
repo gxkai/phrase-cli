@@ -2,7 +2,7 @@
   "name": "phrase-cli",
   "version": "2.65.0",
   "description": "Package to ship the Phrase CLI through NPM",
-  "repository": "https://git.build.ingka.ikea.com/b2b-digital-ecology/phrase-cli",
+  "repository": "https://github.com/gxkai/phrase-cli",
   "bin": {
     "phrase": "bin/phrase"
   },

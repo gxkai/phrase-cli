@@ -2,7 +2,7 @@
   "name": "phrase-cli-windows-64",
   "version": "2.65.0",
   "description": "The Windows 64 binary for phrase-cli.",
-  "repository": "https://git.build.ingka.ikea.com/b2b-digital-ecology/phrase-cli",
+  "repository": "https://github.com/gxkai/phrase-cli",
   "license": "MIT",
   "preferUnplugged": false,
   "engines": {
