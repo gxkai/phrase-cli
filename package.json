@@ -17,7 +17,8 @@
     "publish-macos-64": "cd npm/macos-64 && npm publish",
     "publish-macos-arm64": "cd npm/macos-arm64 && npm publish",
     "publish-windows-32": "cd npm/windows-32 && npm publish",
-    "publish-windows-64": "cd npm/windows-64 && npm publish"
+    "publish-windows-64": "cd npm/windows-64 && npm publish",
+    "publish-main": "npm publish"
   },
   "optionalDependencies": {
     "latest-phrase-cli-linux-32": "2.65.0",
