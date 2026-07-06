@@ -1,6 +1,6 @@
 {
-  "name": "phrase-cli-sync",
-  "version": "0.0.1",
+  "name": "latest-phrase-cli",
+  "version": "2.65.0",
   "description": "Package to ship the Phrase CLI through NPM",
   "repository": {
     "type": "git",
@@ -20,13 +20,13 @@
     "publish-windows-64": "cd npm/windows-64 && npm publish"
   },
   "optionalDependencies": {
-    "phrase-cli-linux-32": "workspace:2.65.0",
-    "phrase-cli-linux-64": "workspace:2.65.0",
-    "phrase-cli-linux-arm": "workspace:2.65.0",
-    "phrase-cli-macos-64": "workspace:2.65.0",
-    "phrase-cli-macos-arm64": "workspace:2.65.0",
-    "phrase-cli-windows-32": "workspace:2.65.0",
-    "phrase-cli-windows-64": "workspace:2.65.0"
+    "latest-phrase-cli-linux-32": "2.65.0",
+    "latest-phrase-cli-linux-64": "2.65.0",
+    "latest-phrase-cli-linux-arm": "2.65.0",
+    "latest-phrase-cli-macos-64": "2.65.0",
+    "latest-phrase-cli-macos-arm64": "2.65.0",
+    "latest-phrase-cli-windows-32": "2.65.0",
+    "latest-phrase-cli-windows-64": "2.65.0"
   },
   "license": "MIT"
 }

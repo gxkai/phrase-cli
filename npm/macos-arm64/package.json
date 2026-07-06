@@ -1,5 +1,5 @@
 {
-  "name": "phrase-cli-macos-arm64",
+  "name": "latest-phrase-cli-macos-arm64",
   "version": "2.65.0",
   "description": "The macOS ARM 64-bit binary for phrase-cli.",
   "repository": "https://github.com/gxkai/phrase-cli",
