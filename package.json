@@ -2,7 +2,10 @@
   "name": "@gxkai/phrase-cli",
   "version": "2.65.0",
   "description": "Package to ship the Phrase CLI through NPM",
-  "repository": "https://github.com/gxkai/phrase-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxkai/phrase-cli.git"
+  },
   "bin": {
     "phrase": "bin/phrase"
   },
