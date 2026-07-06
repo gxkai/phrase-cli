@@ -27,8 +27,5 @@
     "phrase-cli-windows-32": "workspace:2.65.0",
     "phrase-cli-windows-64": "workspace:2.65.0"
   },
-  "files": [
-    "bin/phrase"
-  ],
   "license": "MIT"
 }
