@@ -28,5 +28,8 @@
     "latest-phrase-cli-windows-32": "2.65.0",
     "latest-phrase-cli-windows-64": "2.65.0"
   },
+  "files": [
+    "bin/phrase"
+  ],
   "license": "MIT"
 }
