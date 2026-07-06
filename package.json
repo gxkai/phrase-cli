@@ -1,6 +1,6 @@
 {
-  "name": "phrase-cli-pro",
-  "version": "2.65.0",
+  "name": "phrase-cli-latest",
+  "version": "0.0.1",
   "description": "Package to ship the Phrase CLI through NPM",
   "repository": {
     "type": "git",
