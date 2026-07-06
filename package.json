@@ -1,5 +1,5 @@
 {
-  "name": "@gxkai/phrase-cli",
+  "name": "phrase-cli-pro",
   "version": "2.65.0",
   "description": "Package to ship the Phrase CLI through NPM",
   "repository": {
