@@ -1,5 +1,5 @@
 {
-  "name": "phrase-cli-plus",
+  "name": "phrase-cli-sync",
   "version": "0.0.1",
   "description": "Package to ship the Phrase CLI through NPM",
   "repository": {
