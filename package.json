@@ -6,6 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/gxkai/phrase-cli.git"
   },
+  "private": true,
   "bin": {
     "phrase": "bin/phrase"
   },
